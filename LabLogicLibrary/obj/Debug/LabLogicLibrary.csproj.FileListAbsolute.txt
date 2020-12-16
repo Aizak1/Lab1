@@ -1,0 +1,10 @@
+D:\c#projects\EpamFirstLab\LabLogicLibrary\bin\Debug\LabLogicLibrary.dll
+D:\c#projects\EpamFirstLab\LabLogicLibrary\bin\Debug\LabLogicLibrary.pdb
+D:\c#projects\EpamFirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.csproj.CoreCompileInputs.cache
+D:\c#projects\EpamFirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.dll
+D:\c#projects\EpamFirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.pdb
+D:\c#projects\FirstLab\LabLogicLibrary\bin\Debug\LabLogicLibrary.dll
+D:\c#projects\FirstLab\LabLogicLibrary\bin\Debug\LabLogicLibrary.pdb
+D:\c#projects\FirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.csproj.CoreCompileInputs.cache
+D:\c#projects\FirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.dll
+D:\c#projects\FirstLab\LabLogicLibrary\obj\Debug\LabLogicLibrary.pdb
